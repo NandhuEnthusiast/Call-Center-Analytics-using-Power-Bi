@@ -1,6 +1,5 @@
 # Call-Center-Analytics-using-Power-Bi
 
-# **Call Center Analytics Dashboad using Power BI**
 ## **Boost agent performance and improve customer satisfaction with interactive dashboards.**
 
 This repository showcases project, built using Power BI Desktop and Excel. It leverages call center data to provide data-driven insights into agent performance, call trends, and customer experience.
