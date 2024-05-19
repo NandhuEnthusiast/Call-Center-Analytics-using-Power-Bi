@@ -14,7 +14,7 @@ This project, built using Power BI Desktop and Excel. It leverages call center d
 ✅ Interactive Dashboards: Visualize data through various charts and graphs, enabling easy exploration and analysis.
 
 ![Call center trends manager](https://github.com/NandhuEnthusiast/Call-Center-Analytics-using-Power-Bi/assets/159680004/feea552d-ce4b-473e-8a71-86584430109b)
-image of Call Center Trends Dashboard
+ Image of Call Center Trends Dashboard
 
 ## **Technology Stack:**
 1. Power BI Desktop
