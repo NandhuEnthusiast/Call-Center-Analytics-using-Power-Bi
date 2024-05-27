@@ -1,4 +1,4 @@
-# Call-Center-Analytics-using-Power-Bi
+# Call-Center-Analytics-using-Power-BI
 
 ## **Boost agent performance and improve customer satisfaction with interactive dashboards.**
 
